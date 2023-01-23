@@ -1,6 +1,6 @@
 # GIT
 
-### Configuring GIT
+### Configuration
 
 [Download](https://www.git-scm.com/downloads)
 
